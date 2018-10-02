@@ -1,0 +1,32 @@
+#container
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    min-height: 200px;
+    padding: 50px;
+    background-color: #ccc;
+    border-radius: 10px;
+}
+
+.btn
+{
+    margin: 20px;
+    width: 120px;
+    height: 40px;
+    background: #184372;
+    color: white;
+    font-weight: 800;
+}
+
+.btn:hover
+{
+    background: #0ED9FF;
+}
+
+#value
+{
+    font-size: 36px;
+    color: #184372;
+}
